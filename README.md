@@ -9,8 +9,8 @@ Passionate about turning complex data into actionable insights. Experienced in r
 
 ###
 
-- 🌱 I’m currently learning **Machine Learning and Deep Learning.**  
-- 👯 I’m looking to collaborate on **Data Analysis and Data Science projects.**  
+- 🌱 I'm currently learning **Machine Learning and Deep Learning**  
+- 👯 I'm looking to collaborate on **Data Analysis and Data Science projects**  
 
 ###
 
@@ -19,21 +19,21 @@ Passionate about turning complex data into actionable insights. Experienced in r
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=r" height="60" alt="r logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="c++ logo"  />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="tensorflow logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="60" alt="pytorch logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="tensorflow logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="60" alt="pytorch logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="c++ logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
 </div>
 
 ###
@@ -48,6 +48,8 @@ Passionate about turning complex data into actionable insights. Experienced in r
   <a href="https://www.youtube.com/@lakshitha_senavirathna" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
 
 ###
@@ -64,3 +66,5 @@ Passionate about turning complex data into actionable insights. Experienced in r
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lakshithasenavirathna/lakshithasenavirathna/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lakshithasenavirathna/lakshithasenavirathna/output/pacman-contribution-graph.svg">
 </picture>
+
+###
