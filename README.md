@@ -30,10 +30,6 @@ Passionate about turning complex data into actionable insights. Experienced in r
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="c++ logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
 </div>
 
 ###
